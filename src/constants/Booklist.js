@@ -17,7 +17,7 @@ export const list_one = [
 		bookTitle: 'OMOTOLA RAVE GOD',
 		newPrice: 13.0,
 		oldPrice: 45.0,
-		externalUrl: '#',
+		externalUrl: 'https://amzn.to/41VC19q',
 	},
 	{
 		url: lostToys,
@@ -25,7 +25,7 @@ export const list_one = [
 		bookTitle: 'The ISLAND OF LOST TOYS',
 		newPrice: 40.0,
 		oldPrice: 50.0,
-		externalUrl: '#',
+		externalUrl: 'https://amzn.to/3IUvuTy',
 	},
 	{
 		url: power,
@@ -33,7 +33,7 @@ export const list_one = [
 		bookTitle: 'AMAZING HISTORY',
 		newPrice: 39.5,
 		oldPrice: 45.0,
-		externalUrl: '#',
+		externalUrl: 'https://amzn.to/3JpqAj3',
 	},
 ];
 
@@ -44,7 +44,7 @@ export const list_two = [
 		bookTitle: 'THE WORLD AS i SEE IT',
 		newPrice: 25.0,
 		oldPrice: 30.5,
-		externalUrl: '#',
+		externalUrl: 'https://amzn.to/3L9OHng',
 	},
 	{
 		url: superhero,
@@ -52,7 +52,7 @@ export const list_two = [
 		bookTitle: 'POWER OF A POSITIVE ATTITUDE',
 		newPrice: 25.8,
 		oldPrice: 30.8,
-		externalUrl: '#',
+		externalUrl: 'https://amzn.to/40a1U3N',
 	},
 	{
 		url: nature,
@@ -60,7 +60,7 @@ export const list_two = [
 		bookTitle: 'THE INTELLIGENT INVESTOR',
 		newPrice: 35.6,
 		oldPrice: 40.5,
-		externalUrl: '#',
+		externalUrl: 'https://amzn.to/3YwemJJ',
 	},
 	{
 		url: onceUpon,
@@ -68,7 +68,7 @@ export const list_two = [
 		bookTitle: 'A BRIEF HISTORY OF TIME',
 		newPrice: 50.0,
 		oldPrice: 65.0,
-		externalUrl: '#',
+		externalUrl: 'https://amzn.to/3T2AlqD',
 	},
 ];
 

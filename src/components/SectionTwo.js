@@ -26,7 +26,12 @@ function SectionTwo() {
 						return (
 							<>
 								<Col xs={12} md={4} key={key}>
-									<Card className="border-0" style={{backgroundColor: "transparent"}}>
+									<Card
+										className="border-0"
+										style={{
+											backgroundColor: 'transparent',
+										}}
+									>
 										<Card.Img
 											variant="top"
 											src={item.url}
@@ -45,6 +50,8 @@ function SectionTwo() {
 											<a
 												className="nav-link"
 												href={item.externalUrl}
+												target="_blank"
+												rel="noreferrer"
 											>
 												Visit Page
 											</a>
@@ -84,6 +91,8 @@ function SectionTwo() {
 											<a
 												className="nav-link"
 												href={item.externalUrl}
+												target="_blank"
+												rel="noreferrer"
 											>
 												Visit Page
 											</a>
